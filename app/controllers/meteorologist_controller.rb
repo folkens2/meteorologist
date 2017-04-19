@@ -15,8 +15,6 @@ class MeteorologistController < ApplicationController
     # The street address that the user typed is in the variable @street_address.
     # ==========================================================================
 
-
-
     @current_temperature = "Replace this string with your answer."
 
     @current_summary = "Replace this string with your answer."
